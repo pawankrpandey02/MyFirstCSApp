@@ -1,0 +1,14 @@
+C:\Users\v-kupawan\MyFirstCSApp\bin\Debug\net9.0\MyFirstCSApp.exe
+C:\Users\v-kupawan\MyFirstCSApp\bin\Debug\net9.0\MyFirstCSApp.deps.json
+C:\Users\v-kupawan\MyFirstCSApp\bin\Debug\net9.0\MyFirstCSApp.runtimeconfig.json
+C:\Users\v-kupawan\MyFirstCSApp\bin\Debug\net9.0\MyFirstCSApp.dll
+C:\Users\v-kupawan\MyFirstCSApp\bin\Debug\net9.0\MyFirstCSApp.pdb
+C:\Users\v-kupawan\MyFirstCSApp\obj\Debug\net9.0\MyFirstCSApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\v-kupawan\MyFirstCSApp\obj\Debug\net9.0\MyFirstCSApp.AssemblyInfoInputs.cache
+C:\Users\v-kupawan\MyFirstCSApp\obj\Debug\net9.0\MyFirstCSApp.AssemblyInfo.cs
+C:\Users\v-kupawan\MyFirstCSApp\obj\Debug\net9.0\MyFirstCSApp.csproj.CoreCompileInputs.cache
+C:\Users\v-kupawan\MyFirstCSApp\obj\Debug\net9.0\MyFirstCSApp.dll
+C:\Users\v-kupawan\MyFirstCSApp\obj\Debug\net9.0\refint\MyFirstCSApp.dll
+C:\Users\v-kupawan\MyFirstCSApp\obj\Debug\net9.0\MyFirstCSApp.pdb
+C:\Users\v-kupawan\MyFirstCSApp\obj\Debug\net9.0\MyFirstCSApp.genruntimeconfig.cache
+C:\Users\v-kupawan\MyFirstCSApp\obj\Debug\net9.0\ref\MyFirstCSApp.dll
