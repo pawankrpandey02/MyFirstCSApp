@@ -16,4 +16,4 @@ This is a simple console calculator app written in C#.
 
 ## Author
 
-Pawan — Aspiring C# Developer
+Pawan — Aspiring Developer
